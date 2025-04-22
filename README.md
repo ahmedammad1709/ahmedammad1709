@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! 👋 I'm Ammad Ahmed</h1>
+<h1 align="center">Hey there!  I'm Ammad Ahmed</h1>
 
 <p align="center">
   🎮 Game & Web Developer | 💻 Software Engineering Student <br>
@@ -47,14 +47,6 @@
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ahmedammad1709&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
-
----
-
-### 🧠 Currently Working On
-
-- 🎯 A **2D Strategy Tower Defense Game** using Unity
-- 🌐 Web Projects with **Flask** and **Bootstrap**
-- 🤖 AI-Powered Student Assistant built with **Java + Gemini API**
 
 ---
 
