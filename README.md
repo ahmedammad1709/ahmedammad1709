@@ -59,7 +59,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ahmedammad1709&show_icons=true&theme=tokyonight" alt="Ammad's GitHub stats" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ahmedammad1709&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedammad1709&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
+
+
 
 ---
 
